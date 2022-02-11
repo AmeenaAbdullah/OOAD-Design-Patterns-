@@ -1,0 +1,15 @@
+C:\Users\Ameena\Documents\ooad\adapter\bin\Debug\net6.0\adapter.exe
+C:\Users\Ameena\Documents\ooad\adapter\bin\Debug\net6.0\adapter.deps.json
+C:\Users\Ameena\Documents\ooad\adapter\bin\Debug\net6.0\adapter.runtimeconfig.json
+C:\Users\Ameena\Documents\ooad\adapter\bin\Debug\net6.0\adapter.dll
+C:\Users\Ameena\Documents\ooad\adapter\bin\Debug\net6.0\ref\adapter.dll
+C:\Users\Ameena\Documents\ooad\adapter\bin\Debug\net6.0\adapter.pdb
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.csproj.AssemblyReference.cache
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.AssemblyInfoInputs.cache
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.AssemblyInfo.cs
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.csproj.CoreCompileInputs.cache
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.dll
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\ref\adapter.dll
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.pdb
+C:\Users\Ameena\Documents\ooad\adapter\obj\Debug\net6.0\adapter.genruntimeconfig.cache
